@@ -14,7 +14,7 @@ Assuming endiannes bits may be BE or LE. Checking both we find that we see LE or
 
 Next applying this technique I entered all group of bits to CyberChef and got first string which gives us expected result.
 
-![chef](/irisCTF%202024/Sir%20Scope/chef.jpg)
+![chef](chef.jpg)
 
 P.S. For sure you might think that this chal could be solved using automated methods, like openCV or PIL. I would like to see if someone will implement that method as well.
 
